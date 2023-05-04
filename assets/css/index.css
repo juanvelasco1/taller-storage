@@ -1,2 +1,34 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+
+  h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+ 
+  form {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+  }
+  
+  form label {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+  
+ 
+  
+ 
+   
+    
+  
+  
+ 
 
   
